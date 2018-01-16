@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 /**
  * 
  * @author Manuel García 01/2018
- * Example about Duplicated Code
+ * CS1 : Example about Duplicated Code
  *
  */
 public class Calculator {

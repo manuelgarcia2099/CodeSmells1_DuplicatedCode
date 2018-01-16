@@ -1,5 +1,5 @@
-# CodeSmells1_DuplicatedCode
-Duplicated Code <br /><br /><br />
+# Duplicated Code
+
 It is the most commom smells in code.<br /><br />
 
 Refactoring Techniques:<br />

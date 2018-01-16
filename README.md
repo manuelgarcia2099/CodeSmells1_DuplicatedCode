@@ -1,10 +1,10 @@
 # CodeSmells1_DuplicatedCode
+Duplicated Code <br /><br /><br />
+It is the most commom smells in code.<br /><br />
 
-The most commom smells in code.
-
-Refactoring Techniques:
-Extract Method)
-Pull Up Method
-Form Template Method
-Sucstitute Algorithm
+Refactoring Techniques:<br />
+Extract Method)<br />
+Pull Up Method<br />
+Form Template Method<br />
+Sucstitute Algorithm<br />
 Extract Class
